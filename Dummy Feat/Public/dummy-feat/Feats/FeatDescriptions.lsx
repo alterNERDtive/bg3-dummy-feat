@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328"/>
+  <region id="FeatDescriptions">
+    <node id="root">
+      <children>
+        <node id="FeatDescription">
+          <attribute id="DisplayName" type="TranslatedString" handle="he8f384cdg54ebg41c1g952fg07cbd1b6e8d5" version="1"/>
+          <attribute id="Description" type="TranslatedString" handle="hfe763292gfc4fg4fa6ga731g487ec126d173" version="1"/>
+          <attribute id="ExactMatch" type="FixedString" value="Dummy Feat"/>
+          <attribute id="FeatId" type="guid" value="201712ea-5e8b-4822-bdb2-0adfaf3bf54b"/>
+          <attribute id="UUID" type="guid" value="10baba77-c135-4eef-b87e-9981341a663c"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
+
