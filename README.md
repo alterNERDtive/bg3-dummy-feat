@@ -18,7 +18,7 @@ So, you can give every class a free Feat at level two. But then you get more
 Feats than intended; this is where this mod comes in. Pick a Feat at level two 
 in your first/main class, then pick the Dummy Feat for all additional classes.
 
-## How Do I Get Feats At Level Two?
+## How do I get Feats at level two?
 
 There are several mods for that. Personally I use [Extra Feats at Low 
 Levels](https://www.nexusmods.com/baldursgate3/mods/952) in the “2nd Level Only” 
