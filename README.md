@@ -30,5 +30,5 @@ Well, you probably messed something up then. This is as simple as it gets.
 I could cobble the thing together in about an hour from “I have no idea how this 
 works” to working mod.
 
-You can still [open an issue](https://git.alternerd.tv/bg3-dummy-feat) if you 
-want. Include as much info as possible and I will take a look.
+You can still [open an issue](https://git.alternerd.tv/bg3-dummy-feat/issues) if 
+you want. Include as much info as possible and I will take a look.
